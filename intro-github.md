@@ -9,11 +9,11 @@
 ## Create a GitHub Repository
 1. Make sure you're logged in to your account on [GitHub](https://github.com)
 2. Scroll to the top of the [foundations-github](https://github.com/learn-static/foundations-github/) repository and click the green "Use This Template" button (appears on the right side above the code area)
-3. This brings you to a "Create a new repository" form. Follow these steps:
-    - **Enter your new repository name**. Use a lowercase name without spaces or odd characters.
-    - Choose "Public" repository.
-    - Leave the "Include all branches" option **Unchecked**! (you do not want all branches, only the main/master branch)
-    - Click on the green button "**Create repository from template**." This will take you to your new repository.
+4. This brings you to a "Create a new repository" form. Follow these steps:
+    1. **Repository name**: Use a lowercase name without spaces or odd characters.
+    2. Choose "Public" repository.
+    3. Leave the "Include all branches" option **Unchecked**! (you do not want all branches, only the main branch)
+    4. Click on the green button "**Create repository from template**". This will take you to your new repository.
 
 ## Edit README file
 
