@@ -17,6 +17,47 @@
 
 ## Edit README file
 
+Your new repository contains a few files:
+
+[repo screen shot]
+
+Below the list of filenames, the contents of a "README.md" file are displayed.
+The README file is a place to describe your repository and its contents.
+By default, GitHub displays the README on the repository home page, so it is often the first place visitors will look for information about your project.
+
+Click on the pencil button in the top right corner of the README file. 
+
+[screen shot]
+
+You are now in GitHub's editing mode.
+
+The first line at the top of the template file will look like this:
+
+```
+# foundations-github
+
+```
+
+Leaving the `#`, edit that line to be a title you choose instead.
+For example: `# Example Project`.
+
+Once you're happy with your project title, scroll to the bottom of the page, where you'll see a box titled "Commit changes."
+When you make a commit, Git takes a snapshot of the changes you made and permanently stores it in your repository's history.
+Every commit records a user name, email, and message along side the exact details of the changed files. 
+Your "commit message" is a short description of what the changes do or why you made them--this is your note to the future to help everyone understand the code and history.
+
+To commit the changes you just made to the README, record a brief message indicating what changes you made in the box directly underneath the "Commit changes" title.
+
+[screen shot commit message]
+
+For example: `update project title`
+
+Skip the option to add an extended description to the commit, and keep the box checked next to "Commit directly to the main branch".
+
+Click on the green "Commit changes" button.
+This will take you back to the base of your repository.
+Scroll down to the bottom of your repository to view the new title you added to the README file.
+
 ## Add a New File
 
 ## Check Out the Repository's History
