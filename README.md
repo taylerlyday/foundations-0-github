@@ -13,3 +13,5 @@
 - Understand how to create an issue in a GitHub repository
 - Learn how to turn on GitHub Pages
 - Learn how to find and add collaborators in a repository
+
+**External Resources**:
