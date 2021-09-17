@@ -19,7 +19,7 @@
 
 Your new repository contains a few files:
 
-[repo screen shot]
+![GitHub repository files](https://github.com/learn-static/images/repo.png)
 
 Below the list of filenames, the contents of a "README.md" file are displayed.
 The README file is a place to describe your repository and its contents.
