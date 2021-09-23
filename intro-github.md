@@ -9,6 +9,7 @@
 ## Create a GitHub Repository
 1. Make sure you're logged in to your account on [GitHub](https://github.com)
 2. Scroll to the top of the [foundations-github](https://github.com/learn-static/foundations-github/) repository and click the green "Use This Template" button (appears on the right side above the code area)
+![GitHub repository files](https://github.com/learn-static/foundations-github/blob/main/images/repo2.png)
 4. This brings you to a "Create a new repository" form. Follow these steps:
     1. **Repository name**: Use a lowercase name without spaces or odd characters.
     2. Choose "Public" repository.
@@ -17,17 +18,13 @@
 
 ## Edit README file
 
-Your new repository contains a few files:
-
-![GitHub repository files](https://github.com/learn-static/foundations-github/blob/main/images/repo2.png)
-
-Below the list of filenames, the contents of a "README.md" file are displayed.
-The README file is a place to describe your repository and its contents.
+Below the contents of your repository, a "README.md" file is displayed.
+The README file is a place to describe your repository.
 By default, GitHub displays the README on the repository home page, so it is often the first place visitors will look for information about your project.
 
 Click on the pencil button in the top right corner of the README file. 
 
-[screen shot]
+![GitHub repository files](https://github.com/learn-static/foundations-github/blob/main/images/readme-pencil.png)
 
 You are now in GitHub's editing mode.
 
@@ -39,7 +36,7 @@ The first line at the top of the template file will look like this:
 ```
 
 Leaving the `#`, edit that line to be a title you choose instead.
-For example: `# Example Project`.
+For example: `# My Project`.
 
 Once you're happy with your project title, scroll to the bottom of the page, where you'll see a box titled "Commit changes."
 When you make a commit, Git takes a snapshot of the changes you made and permanently stores it in your repository's history.
@@ -48,7 +45,7 @@ Your "commit message" is a short description of what the changes do or why you m
 
 To commit the changes you just made to the README, record a brief message indicating what changes you made in the box directly underneath the "Commit changes" title.
 
-[screen shot commit message]
+![GitHub repository files](https://github.com/learn-static/foundations-github/blob/main/images/commit.png)
 
 For example: `update project title`
 
@@ -59,6 +56,21 @@ This will take you back to the base of your repository.
 Scroll down to the bottom of your repository to view the new title you added to the README file.
 
 ## Add a New File
+
+Locate and click the "Add file" button, situated to the right above your code.
+When this button is clicked, a drop down menu will appear with the options "Create new file" and "Upload files."
+Select "Create new file."
+
+![GitHub repository files](https://github.com/learn-static/foundations-github/blob/main/images/add-file.png)
+
+Next, name your file.
+Be sure to not include any slashes (`/`), and give it an extension of `.txt`
+![GitHub repository files](https://github.com/learn-static/foundations-github/blob/main/images/name-file.png)
+
+Add the following sentence to your text file:
+`This is a new file in my GitHub repository.`
+
+Commit your new file to your repository by adding a commit message and pressing the green "Commit new file" button.
 
 ## Check Out the Repository's History
 
