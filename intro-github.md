@@ -9,7 +9,6 @@
 ## Create a GitHub Repository
 1. Make sure you're logged in to your account on [GitHub](https://github.com)
 2. Scroll to the top of the [foundations-github](https://github.com/learn-static/foundations-github/) repository and click the green "Use This Template" button (appears on the right side above the code area)
-![GitHub repository files](https://github.com/learn-static/foundations-github/blob/main/images/repo2.png)
 4. This brings you to a "Create a new repository" form. Follow these steps:
     1. **Repository name**: Use a lowercase name without spaces or odd characters.
     2. Choose "Public" repository.
@@ -22,7 +21,7 @@ Below the contents of your repository, a "README.md" file is displayed.
 The README file is a place to describe your repository.
 By default, GitHub displays the README on the repository home page, so it is often the first place visitors will look for information about your project.
 
-Click on the pencil button in the top right corner of the README file. 
+1. Click on the pencil button in the top right corner of the README file. 
 
 ![GitHub repository files](https://github.com/learn-static/foundations-github/blob/main/images/readme-pencil.png)
 
@@ -35,60 +34,48 @@ The first line at the top of the template file will look like this:
 
 ```
 
-Leaving the `#`, edit that line to be a title you choose instead.
-For example: `# My Project`.
+2. Leaving the `#`, edit that line to be a title you choose instead. For example: `# My Project`.
+3. Once you're happy with your project title, proceed to the following section to learn how to save or "commit" your changes.
 
-Once you're happy with your project title, scroll to the bottom of the page, where you'll see a box titled "Commit changes."
+## Make a Commit
 When you make a commit, Git takes a snapshot of the changes you made and permanently stores it in your repository's history.
-Every commit records a user name, email, and message along side the exact details of the changed files. 
+Every commit records a user name, email, and message along side the exact details of the changed files:
+
+![GitHub repository files](https://github.com/learn-static/foundations-github/blob/main/images/commit1.png)
+
 Your "commit message" is a short description of what the changes do or why you made them--this is your note to the future to help everyone understand the code and history.
 
-To commit the changes you just made to the README, record a brief message indicating what changes you made in the box directly underneath the "Commit changes" title.
+1. To commit the changes you just made to the README, scroll to the bottom of the page, where you'll see a box titled "Commit changes."
+2. In the box directly underneath the "Commit changes" title, record a brief message indicating what changes you made. For example: `update project title`.
 
-![GitHub repository files](https://github.com/learn-static/foundations-github/blob/main/images/commit.png)
+![GitHub repository files](https://github.com/learn-static/foundations-github/blob/main/images/commit2.png)
 
-For example: `update project title`
-
-Skip the option to add an extended description to the commit, and keep the box checked next to "Commit directly to the main branch".
-
-Click on the green "Commit changes" button.
-This will take you back to the base of your repository.
-Scroll down to the bottom of your repository to view the new title you added to the README file.
+3. Skip the option to add an extended description to the commit, and keep the box checked next to "Commit directly to the main branch".
+4. Click on the green "Commit changes" button. This will take you back to the base of your repository.
+5. Scroll down to the bottom of your repository to view the new title you added to the README file.
 
 ## Add a New File
 
-Locate and click the "Add file" button, situated to the right above your code.
-When this button is clicked, a drop down menu will appear with the options "Create new file" and "Upload files."
-Select "Create new file."
+1. Locate and click the "Add file" button, situated to the right above your code. When this button is clicked, a drop down menu will appear with the options "Create new file" and "Upload files."
+2. Select "Create new file."
 
 ![GitHub repository files](https://github.com/learn-static/foundations-github/blob/main/images/add-file.png)
 
-Next, name your file.
-Be sure to not include any slashes (`/`), and give it an extension of `.txt`
+3. An option to name your file will appear toward the top of your screen. Give your file the name: `new-file.txt`
+
 ![GitHub repository files](https://github.com/learn-static/foundations-github/blob/main/images/name-file.png)
 
-Add the following sentence to your text file:
-`This is a new file in my GitHub repository.`
+4. Add the following sentence to your text file:
+```
+This is a new file in my GitHub repository.
 
-Commit your new file to your repository by adding a commit message and pressing the green "Commit new file" button.
+```
+
+5. Commit your new file to your repository by adding a commit message (just as you did in the "Make a Commit" section above) and pressing the green "Commit new file" button.
 
 ## Check Out the Repository's History
 
-## Turn on GitHub Pages
 
-1. On your project repository's home page, click the "Settings" button (appears on the right along the tabs above the code area).
-2. On "Settings" page: click "Pages" in the left side menu.
-3. On the "Pages" page: in the "Source" section, change the dropdown button from "none" to "main" (leave the folder option as "/root"), then click the "Save" button. 
-
-Once saved, the page will refresh with an alert providing the URL where your site will appear. 
-It will take a few minutes for the build to happen and your site to go live--so wait it out! 
-
-Meanwhile, you'll want to copy the URL to display on your home page:
-
-1. Copy the provided URL.
-2. Go to repository's home page.
-3. On right side of the code area, look for "About" section and click on the cog icon to edit. 
-4. In the "About" box, paste in your URL, then click "Save". This will make it easy to access the site in the future!
 
 ## Make an Issue
 
