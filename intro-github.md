@@ -31,7 +31,7 @@ Explore your new repository.
 It contains: 
 - a folder of images
 - a README file
-- a "intro-github" file with instructions for this lesson
+- an "intro-github" file with instructions for this lesson
 
 ![GitHub repository files](https://github.com/learn-static/foundations-github/blob/main/images/repo.png)
 
@@ -63,35 +63,34 @@ The first line at the top of the template file will look like this:
 When you make a commit, Git takes a snapshot of the changes you made and permanently stores it in your repository's history.
 Your "commit message" is a short description of what the changes do or why you made them--this is your note to the future to help everyone understand the code and history.
 
-You can view recent commits from your repository's homepage: commit messages and their timestamps are located to the right of the repository files:
+You can view recent commits on your repository's homepage.
+Commit messages and their timestamps are located to the right of the repository files:
 
 ![GitHub file history](https://github.com/learn-static/foundations-github/blob/main/images/commit1.png)
 
 1. To commit the changes you just made to your README file, scroll to the bottom of the page where you made your README edits. You'll see a box titled "Commit changes."
-2. In the text box directly underneath the "Commit changes" title, type `update project title`, or a brief message of your choosing that indicates what changes you made to this file.
+2. In the text box directly underneath "Commit changes," type `update project title`, or a brief message of your choosing that indicates what changes you made to this file.
 
 ![Commit Changes button](https://github.com/learn-static/foundations-github/blob/main/images/commit2.png)
 
 3. Skip the option to add an extended description to the commit, and keep the box checked next to "Commit directly to the main branch".
-4. Click on the green "Commit changes" button. This will take you back to the base of your repository.
+4. Click on the green "Commit changes" button. This will take you back to your repository's homepage.
 5. Scroll down to the bottom of your repository to view the new title you added to the README file.
 
 ## View the Changes
 
 Let's take a closer look at the changes you've made to the README file:
 
-1. On your repository's homepage, locate the README.md file. To the right of the file, you should see the commit message you just made:
+1. On your repository's homepage, locate the README.md file. To the right of the file, you should see the commit message you just created:
 
 ![Click on your commit message](https://github.com/learn-static/foundations-github/blob/main/images/commit-message.png)
 
 2. Click on the commit message.
 
 You should now see two versions of your README file, displayed side by side.
-You are viewing the difference between the original version of your repository's README file, and the new version that you just created by editing it. 
+You are viewing the difference between the original version of your repository's README file, and the new version that you created by editing it. 
 
 ![View your changes](https://github.com/learn-static/foundations-github/blob/main/images/diff.png)
-
-3. Navigate back to your repository's homepage.
 
 ## Add a New File to the Repository
 
@@ -120,7 +119,7 @@ This is a new file in my GitHub repository.
 
 2. Click on the commit count.
 
-You are now viewing your repository's history: in other words, all the commits that have ever been made to it.
+You are now viewing your repository's history: all the commits that have ever been made to it.
 
 ![View your repository's history](https://github.com/learn-static/foundations-github/blob/main/images/history.png)
 
