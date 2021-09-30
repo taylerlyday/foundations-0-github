@@ -21,3 +21,4 @@
 **External Resources**:
 - [GitHub Guides "Hello World" Introduction](https://guides.github.com/activities/hello-world/)
 - [GitHub Learning Lab](https://lab.github.com/)
+- [Introduction to GitHub](https://evanwill.github.io/go-go-ghpages-b/content/1-intro.html) (part of the [go-go gh-pages!](https://evanwill.github.io/go-go-ghpages-b/) workshop)
