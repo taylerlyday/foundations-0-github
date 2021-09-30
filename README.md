@@ -1,4 +1,4 @@
-# foundations-github
+# foundations-0-github
 
 **Lesson content**: [Introduction to GitHub](https://github.com/learn-static/foundations-github/blob/main/intro-github.md)
 
