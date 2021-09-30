@@ -1,4 +1,4 @@
-# foundations-github
+# foundations-0-github
 
 **Lesson content**: [Introduction to GitHub](https://github.com/learn-static/foundations-github/blob/main/intro-github.md)
 
@@ -19,4 +19,5 @@
 **Prep**: 
 
 **External Resources**:
-
+- [GitHub Guides "Hello World" Introduction](https://guides.github.com/activities/hello-world/)
+- [GitHub Learning Lab](https://lab.github.com/)
