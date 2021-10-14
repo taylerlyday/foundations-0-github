@@ -14,7 +14,7 @@ Before we get started, let’s clarify some terms:
 
 # Step 2. Copy a GitHub Repository
 
-GitHub makes it easy to copy code from someone else's repository into your own and start editing it.
+Copy code from another repository into your own and start editing it.
 
 1. Make sure you're logged into your account on [GitHub](https://github.com)
 2. Scroll to the top of the [foundations-0-github](https://github.com/learn-static/foundations-0-github) repository and click the green "Use This Template" button (appears on the right side above the code area)
