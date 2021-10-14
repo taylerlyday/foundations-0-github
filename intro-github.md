@@ -6,13 +6,13 @@ Before we get started, let’s clarify some terms:
 
 [GitHub](https://github.com/), a popular web platform for hosting Git repositories–i.e. a place to store and sync your project files online. Think of it as Google Drive for code with super robust “track changes” baked in. Built around the powerful version control of Git, it provides a handy web interface for managing, editing, and collaborating on repositories.
 
-## Step 1. Create a GitHub account
+# Step 1. Create a GitHub account
 
 1. Go to <https://github.com>
 2. Click the "Sign up" button
 3. Enter your email and create a username and password to complete the sign up process
 
-## Step 2. Copy a GitHub Repository
+# Step 2. Copy a GitHub Repository
 
 GitHub makes it easy to copy code from someone else's repository into your own and start editing it.
 
@@ -27,7 +27,7 @@ GitHub makes it easy to copy code from someone else's repository into your own a
 
 !["Create a new repository"](https://github.com/learn-static/foundations-github/blob/main/images/new-repo.png)
 
-## Step 3. Edit README file
+# Step 3. Edit README file
 
 Explore your new repository.
 It contains: 
@@ -60,7 +60,7 @@ The first line at the top of the template file will look like this:
 2. Delete this line of text and instead type `# My Project`.
 3. Proceed to the following section to learn how to save or "commit" your changes.
 
-## Step 4. Make a Commit
+# Step 4. Make a Commit
 
 When you make a commit, Git takes a snapshot of the changes you made and permanently stores it in your repository's history.
 Your "commit message" is a short description of what the changes do or why you made them--this is your note to the future to help everyone understand the code and history.
@@ -79,7 +79,7 @@ Commit messages and their timestamps are located to the right of the repository 
 4. Click on the green "Commit changes" button. This will take you back to your repository's homepage.
 5. Scroll down to the bottom of your repository to view the new title you added to the README file.
 
-## Step 5. View the Changes
+# Step 5. View the Changes
 
 Let's take a closer look at the changes you've made to the README file:
 
@@ -94,7 +94,7 @@ You are viewing the difference between the original version of your repository's
 
 ![View your changes](https://github.com/learn-static/foundations-github/blob/main/images/diff.png)
 
-## Step 6. Add a New File to the Repository
+# Step 6. Add a New File to the Repository
 
 Now it's time to add a new file to your project.
 
@@ -115,7 +115,7 @@ This is a new file in my GitHub repository.
 
 5. Commit your new file to your repository by adding a commit message (just as you did in the "Make a Commit" section above) and pressing the green "Commit new file" button.
 
-## Step 7. Check Out the Repository's History
+# Step 7. Check Out the Repository's History
 
 Let's view all the changes we've made to the repository so far.
 
@@ -131,7 +131,7 @@ You are now viewing your repository's history: all the commits that have ever be
 
 3. Click on any of the commit messages to view the changes that were made as part of that commit.
 
-## Step 8. Make an Issue
+# Step 8. Make an Issue
 
 GitHub Issues are a great way to record tasks, identify problems, and communicate with collaborators on your own repositories as well as others'.
 
@@ -164,7 +164,7 @@ To-do:
 
 8. Congratulations, you've successfully created an issue!
 
-## Step 9. (Optional) Add a GitHub Collaborator
+# Step 9. (Optional) Add a GitHub Collaborator
 
 Most digital projects are collaborative, so you will probably want to add your collaborators to your GitHub project repository.
 
