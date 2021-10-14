@@ -6,15 +6,17 @@ Before we get started, let’s clarify some terms:
 
 [GitHub](https://github.com/), a popular web platform for hosting Git repositories–i.e. a place to store and sync your project files online. Think of it as Google Drive for code with super robust “track changes” baked in. Built around the powerful version control of Git, it provides a handy web interface for managing, editing, and collaborating on repositories.
 
-## Create a GitHub account
+## Step 1. Create a GitHub account
 
 1. Go to <https://github.com>
 2. Click the "Sign up" button
 3. Enter your email and create a username and password to complete the sign up process
 
-## Copy a GitHub Repository
+## Step 2. Copy a GitHub Repository
 
-1. Make sure you're logged in to your account on [GitHub](https://github.com)
+GitHub makes it easy to copy code from someone else's repository into your own and start editing it.
+
+1. Make sure you're logged into your account on [GitHub](https://github.com)
 2. Scroll to the top of the [foundations-0-github](https://github.com/learn-static/foundations-0-github) repository and click the green "Use This Template" button (appears on the right side above the code area)
 4. This brings you to a "Create a new repository" form. Follow these steps:
     1. In the **Repository name** text box, give your repository the name `github-foundations`. If you'd like to create your own name for the repository, be sure to use a lowercase name without spaces or odd characters. Dashes (`-`) or underscores (`_`) are okay.
@@ -25,7 +27,7 @@ Before we get started, let’s clarify some terms:
 
 !["Create a new repository"](https://github.com/learn-static/foundations-github/blob/main/images/new-repo.png)
 
-## Edit README file
+## Step 3. Edit README file
 
 Explore your new repository.
 It contains: 
@@ -58,7 +60,7 @@ The first line at the top of the template file will look like this:
 2. Delete this line of text and instead type `# My Project`.
 3. Proceed to the following section to learn how to save or "commit" your changes.
 
-## Make a Commit
+## Step 4. Make a Commit
 
 When you make a commit, Git takes a snapshot of the changes you made and permanently stores it in your repository's history.
 Your "commit message" is a short description of what the changes do or why you made them--this is your note to the future to help everyone understand the code and history.
@@ -77,7 +79,7 @@ Commit messages and their timestamps are located to the right of the repository 
 4. Click on the green "Commit changes" button. This will take you back to your repository's homepage.
 5. Scroll down to the bottom of your repository to view the new title you added to the README file.
 
-## View the Changes
+## Step 5. View the Changes
 
 Let's take a closer look at the changes you've made to the README file:
 
@@ -92,7 +94,9 @@ You are viewing the difference between the original version of your repository's
 
 ![View your changes](https://github.com/learn-static/foundations-github/blob/main/images/diff.png)
 
-## Add a New File to the Repository
+## Step 6. Add a New File to the Repository
+
+Now it's time to add a new file to your project.
 
 1. On your repository's homepage, locate and click the "Add file" button, situated to the right above your repository's files. When this button is clicked, a drop down menu will appear with the options "Create new file" and "Upload files."
 2. Select "Create new file."
@@ -111,13 +115,15 @@ This is a new file in my GitHub repository.
 
 5. Commit your new file to your repository by adding a commit message (just as you did in the "Make a Commit" section above) and pressing the green "Commit new file" button.
 
-## Check Out the Repository's History
+## Step 7. Check Out the Repository's History
 
-1. On your repository's homepage, locate the commit count for your repository, situated underneath the green "Code" button and to the right of a clock icon: 
+Let's view all the changes we've made to the repository so far.
+
+1. On your repository's home page, locate the commit count for your repository, situated underneath the green "Code" button and to the right of a clock icon. It should display a number followed by the word "commits" (example: "3 commits"): 
 
 ![Click on the commit count](https://github.com/learn-static/foundations-github/blob/main/images/commit-count.png)
 
-2. Click on the commit count.
+2. Click on this commit count link.
 
 You are now viewing your repository's history: all the commits that have ever been made to it.
 
@@ -125,25 +131,48 @@ You are now viewing your repository's history: all the commits that have ever be
 
 3. Click on any of the commit messages to view the changes that were made as part of that commit.
 
-## Make an Issue
+## Step 8. Make an Issue
 
-1. In the navigation menu below your repository's name, locate and click on the "Issues" button.
+GitHub Issues are a great way to record tasks, identify problems, and communicate with collaborators on your own repositories as well as others'.
+
+1. Navigate to your repository's home page.
+2. In the navigation menu below your repository's name, locate and click on the "Issues" button. This will take you a "Welcome to issues!" page.
 
 ![Click on "Issues"](https://github.com/learn-static/foundations-github/blob/main/images/issues.png)
 
-2. Click the green "New issue" button, located on the right side of the screen.
+3. Click the green "New issue" button, located on the right side of the screen.
 
-3. 
+![Click "New issue"](https://github.com/learn-static/foundations-github/blob/main/images/issues2.png)
 
-## Optional: Add a GitHub Collaborator
+4. In the "Title" text box, type "My first issue."
+
+5. In the "Write" text box, copy and paste the following description:
+
+```
+To-do:
+
+- [ ] Complete the Learn-STATIC foundations-0-github module (https://github.com/learn-static/foundations-0-github)
+- [ ] Learn more about GitHub and HTML by completing the Learn-STATIC foundations-1-html module (https://github.com/learn-static/foundations-1-html)
+
+```
+
+![Add content to your issue](https://github.com/learn-static/foundations-github/blob/main/images/issues3.png)
+
+6. To preview your issue, click the "Preview" tab to the right of the "Write" tab. (Notice the `- [ ]` turn into checkboxes!)
+
+7. When your description is finished, click on the green "Submit new issue" button.
+
+8. Congratulations, you've successfully created an issue!
+
+## Step 9. (Optional) Add a GitHub Collaborator
 
 Most digital projects are collaborative, so you will probably want to add your collaborators to your GitHub project repository.
 
-1. On the repository home page, click "Settings" tab
-2. On left side nav, click "Manage access"
+1. On the repository home page, click the "Settings" tab
+2. On the left side nav, click "Manage access"
 3. Click the green "invite teams or people" button
-4. Type in a GitHub user name to add. The search bar will show suggestions based on what you type, select the correct account to add.
-5. Select their level of access to the repository. Generally if you want people to be able to edit code in the repository, give them "Write" access. Then click the green "Add" button.
+4. Type in a GitHub username to add (the search bar will show suggestions based on what you type). Select the correct account to add.
+5. Select your collaborator's level of access to the repository. Generally if you want people to be able to edit code in the repository, give them "Write" access. Then click the green "Add" button.
 
 Once added your collaborator will receive an email with the invitation to join your repository.
 They will have to confirm the invitation before being added!
