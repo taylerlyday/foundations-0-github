@@ -78,41 +78,44 @@ Let's take a closer look at the changes you've made to the README file:
 2. Click on the commit message.
 
 You should now see two versions of your README file, displayed side by side.
-You are viewing the difference between the original version of your repository's README file (on the left), and the new version (on the right) that you created by editing it. 
+You are viewing the difference between the original version of your repository's README file (on the left), and the new version that you created by editing it (on the right). 
 
 ![View your changes](images/diff.png)
+
+3. Click your repository's name (located in the top left of the window) to return to the repository's home page.
 
 ## Step 6. Add a New File to the Repository
 
 Now it's time to add a new file to your project.
 
-1. On your repository's homepage, locate and click the "Add file" button, situated to the right above your repository's files. When this button is clicked, a drop down menu will appear. Select the option "Create new file".
+1. On your repository's home page, locate and click the "Add file" button, situated to the right above your repository's files. When this button is clicked, a drop-down menu will appear. Select the option "Create new file".
 2. An option to name your file will appear toward the top of your screen. Give your file the name: `new-file.txt`
-3. Add the following sentence to your text file:
+3. Add the following sentence to the body of your text file:
 
 ```
 This is a new file in my GitHub repository.
 
 ```
 
-4. Commit your new file to your repository by adding the commit message, `add new file` (just as you did in the "Make a Commit" section above), and pressing the green "Commit new file" button.
+4. Commit your new file to your repository by adding the commit message `add new file` (just as you did in the "Make a Commit" section above), and pressing the green "Commit new file" button.
 
 ## Step 7. Check Out the Repository's History
 
 Let's view all the changes we've made to the repository so far.
 
-1. On your repository's home page, locate the commit count for your repository, situated underneath the green "Code" button and to the right of a clock icon. It should display a number followed by the word "commits" (example: "3 commits"): 
+1. On your repository's home page, locate the commit count for your repository, situated underneath the green "Code" button and to the right of the clock icon. It should display a number followed by the word "commits" (example: "3 commits"): 
 2. Click on this commit count link.
 
 You are now viewing your repository's history (all the commits that have ever been made to your repository).
 
 3. Click on the commit message `update project title` to view the changes that were made as part of that commit.
+4. Click your repository's name (located in the top left of the window) to return to the repository's home page.
 
 ## Step 8. Make an Issue
 
 GitHub Issues are a great way to record tasks, identify problems, and communicate with collaborators on your own repositories as well as others'.
 
-1. Navigate to your repository's home page.
+1. Make sure you are on your repository's home page.
 2. In the navigation menu below your repository's name, locate and click on the "Issues" button. This will take you a "Welcome to issues!" page.
 3. Click the green "New issue" button, located on the right side of the screen.
 4. In the "Title" text box, type "My first issue."
@@ -129,6 +132,7 @@ To-do:
 6. To preview your issue, click the "Preview" tab to the right of the "Write" tab. (Notice the `- [ ]` turn into checkboxes!)
 7. When your description is finished, click on the green "Submit new issue" button.
 8. Congratulations, you've successfully created an issue!
+9. Click your repository's name (located in the top left of the window) to return to the repository's home page.
 
 ## Step 9. (Optional) Add a GitHub Collaborator
 
