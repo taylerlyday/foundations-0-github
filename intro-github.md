@@ -25,9 +25,7 @@ Copy code from another repository into your own and start editing it.
     4. Leave the "Include all branches" option **Unchecked**!
     5. Click on the green button "**Create repository from template**". This will take you to your new repository.
 
-!["Create a new repository"](images/new-repo.png)
-
-# Step 3. Edit README file
+## Step 3. Edit README file
 
 Explore your new repository.
 It contains: 
@@ -35,22 +33,18 @@ It contains:
 - a README file
 - an "intro-github" file with instructions for this lesson
 
-![GitHub repository files](https://github.com/learn-static/foundations-github/blob/main/images/repo.png)
+1. Click on the `README.md` link. This will open your README file.
 
-1. Click on the README.md file:
-
-![Open the README file](https://github.com/learn-static/foundations-github/blob/main/images/open-file.png)
+![Open the README file](images/open-file.png)
 
 The README file is a place to describe your repository.
 By default, GitHub displays the README on the repository home page, so it is often the first place visitors will look for information about your project.
 
-2. Click on the pencil button in the top right corner of the README file. 
-
-![Click the pencil button to edit a file](https://github.com/learn-static/foundations-github/blob/main/images/readme-pencil.png)
+2. In the top right corner of the README file, locate and click on the pencil icon.
 
 You are now in GitHub's editing mode.
 
-The first line at the top of the template file will look like this:
+The first line at the top of the file will look like this:
 
 ```
 # foundations-0-github
@@ -60,7 +54,7 @@ The first line at the top of the template file will look like this:
 2. Delete this line of text and instead type `# My Project`.
 3. Proceed to the following section to learn how to save or "commit" your changes.
 
-# Step 4. Make a Commit
+## Step 4. Make a Commit
 
 When you make a commit, Git takes a snapshot of the changes you made and permanently stores it in your repository's history.
 Your "commit message" is a short description of what the changes do or why you made them--this is your note to the future to help everyone understand the code and history.
@@ -68,84 +62,59 @@ Your "commit message" is a short description of what the changes do or why you m
 You can view recent commits on your repository's homepage.
 Commit messages and their timestamps are located to the right of the repository files:
 
-![GitHub file history](https://github.com/learn-static/foundations-github/blob/main/images/commit1.png)
+![GitHub file history](images/commit1-edited.png)
 
 1. To commit the changes you just made to your README file, scroll to the bottom of the page where you made your README edits. You'll see a box titled "Commit changes."
 2. In the text box directly underneath "Commit changes," type `update project title`, or a brief message of your choosing that indicates what changes you made to this file.
-
-![Commit Changes button](https://github.com/learn-static/foundations-github/blob/main/images/commit2.png)
-
 3. Skip the option to add an extended description to the commit, and keep the box checked next to "Commit directly to the main branch".
 4. Click on the green "Commit changes" button. This will take you back to your repository's homepage.
 5. Scroll down to the bottom of your repository to view the new title you added to the README file.
 
-# Step 5. View the Changes
+## Step 5. View the Changes
 
 Let's take a closer look at the changes you've made to the README file:
 
-1. On your repository's homepage, locate the README.md file. To the right of the file, you should see the commit message you just created:
-
-![Click on your commit message](https://github.com/learn-static/foundations-github/blob/main/images/commit-message.png)
-
+1. On your repository's homepage, locate the README.md file link. To the right of the link, you should see the commit message you just created (it should say `update project title`).
 2. Click on the commit message.
 
 You should now see two versions of your README file, displayed side by side.
-You are viewing the difference between the original version of your repository's README file, and the new version that you created by editing it. 
+You are viewing the difference between the original version of your repository's README file (on the left), and the new version (on the right) that you created by editing it. 
 
-![View your changes](https://github.com/learn-static/foundations-github/blob/main/images/diff.png)
+![View your changes](images/diff.png)
 
-# Step 6. Add a New File to the Repository
+## Step 6. Add a New File to the Repository
 
 Now it's time to add a new file to your project.
 
-1. On your repository's homepage, locate and click the "Add file" button, situated to the right above your repository's files. When this button is clicked, a drop down menu will appear with the options "Create new file" and "Upload files."
-2. Select "Create new file."
+1. On your repository's homepage, locate and click the "Add file" button, situated to the right above your repository's files. When this button is clicked, a drop down menu will appear. Select the option "Create new file".
+2. An option to name your file will appear toward the top of your screen. Give your file the name: `new-file.txt`
+3. Add the following sentence to your text file:
 
-![Add a file to the repository](https://github.com/learn-static/foundations-github/blob/main/images/add-file.png)
-
-3. An option to name your file will appear toward the top of your screen. Give your file the name: `new-file.txt`
-
-![Name the new file](https://github.com/learn-static/foundations-github/blob/main/images/name-file.png)
-
-4. Add the following sentence to your text file:
 ```
 This is a new file in my GitHub repository.
 
 ```
 
-5. Commit your new file to your repository by adding a commit message (just as you did in the "Make a Commit" section above) and pressing the green "Commit new file" button.
+4. Commit your new file to your repository by adding the commit message, `add new file` (just as you did in the "Make a Commit" section above), and pressing the green "Commit new file" button.
 
-# Step 7. Check Out the Repository's History
+## Step 7. Check Out the Repository's History
 
 Let's view all the changes we've made to the repository so far.
 
 1. On your repository's home page, locate the commit count for your repository, situated underneath the green "Code" button and to the right of a clock icon. It should display a number followed by the word "commits" (example: "3 commits"): 
-
-![Click on the commit count](https://github.com/learn-static/foundations-github/blob/main/images/commit-count.png)
-
 2. Click on this commit count link.
 
-You are now viewing your repository's history: all the commits that have ever been made to it.
+You are now viewing your repository's history (all the commits that have ever been made to your repository).
+3. Click on the commit message `update project title` to view the changes that were made as part of that commit.
 
-![View your repository's history](https://github.com/learn-static/foundations-github/blob/main/images/history.png)
-
-3. Click on any of the commit messages to view the changes that were made as part of that commit.
-
-# Step 8. Make an Issue
+## Step 8. Make an Issue
 
 GitHub Issues are a great way to record tasks, identify problems, and communicate with collaborators on your own repositories as well as others'.
 
 1. Navigate to your repository's home page.
 2. In the navigation menu below your repository's name, locate and click on the "Issues" button. This will take you a "Welcome to issues!" page.
-
-![Click on "Issues"](https://github.com/learn-static/foundations-github/blob/main/images/issues.png)
-
 3. Click the green "New issue" button, located on the right side of the screen.
-
-![Click "New issue"](https://github.com/learn-static/foundations-github/blob/main/images/issues2.png)
-
 4. In the "Title" text box, type "My first issue."
-
 5. In the "Write" text box, copy and paste the following description:
 
 ```
@@ -156,15 +125,11 @@ To-do:
 
 ```
 
-![Add content to your issue](https://github.com/learn-static/foundations-github/blob/main/images/issues3.png)
-
 6. To preview your issue, click the "Preview" tab to the right of the "Write" tab. (Notice the `- [ ]` turn into checkboxes!)
-
 7. When your description is finished, click on the green "Submit new issue" button.
-
 8. Congratulations, you've successfully created an issue!
 
-# Step 9. (Optional) Add a GitHub Collaborator
+## Step 9. (Optional) Add a GitHub Collaborator
 
 Most digital projects are collaborative, so you will probably want to add your collaborators to your GitHub project repository.
 
