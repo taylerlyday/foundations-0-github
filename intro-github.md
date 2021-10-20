@@ -60,9 +60,7 @@ When you make a commit, Git takes a snapshot of the changes you made and permane
 Your "commit message" is a short description of what the changes do or why you made them--this is your note to the future to help everyone understand the code and history.
 
 You can view recent commits on your repository's homepage.
-Commit messages and their timestamps are located to the right of the repository files:
-
-![GitHub file history](images/commit1-edited.png)
+Commit messages and their timestamps are located to the right of the repository files.
 
 1. To commit the changes you just made to your README file, scroll to the bottom of the page where you made your README edits. You'll see a box titled "Commit changes."
 2. In the text box directly underneath "Commit changes," type `update project title`, or a brief message of your choosing that indicates what changes you made to this file.
@@ -105,6 +103,7 @@ Let's view all the changes we've made to the repository so far.
 2. Click on this commit count link.
 
 You are now viewing your repository's history (all the commits that have ever been made to your repository).
+
 3. Click on the commit message `update project title` to view the changes that were made as part of that commit.
 
 ## Step 8. Make an Issue
