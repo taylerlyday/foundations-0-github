@@ -35,8 +35,6 @@ It contains:
 
 1. Click on the `README.md` link. This will open your README file.
 
-![Open the README file](images/open-file.png)
-
 The README file is a place to describe your repository.
 By default, GitHub displays the README on the repository home page, so it is often the first place visitors will look for information about your project.
 
