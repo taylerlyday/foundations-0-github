@@ -25,7 +25,7 @@ Copy code from another repository into your own and start editing it.
     4. Leave the "Include all branches" option **Unchecked**!
     5. Click on the green button "**Create repository from template**". This will take you to your new repository.
 
-!["Create a new repository"](/images/new-repo.png)
+!["Create a new repository"](images/new-repo.png)
 
 # Step 3. Edit README file
 
