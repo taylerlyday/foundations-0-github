@@ -1,10 +1,10 @@
 # Introduction to GitHub
 
-Before we get started, let’s clarify some terms:
+Before we get started, let's clarify some terms:
 
 [Git](https://git-scm.com/) is a popular free, distributed version control system–i.e. a piece of software used to track the history of changes in a folder of files. Git can be used on your personal computer, or by online services to track the development of a project, such as…
 
-[GitHub](https://github.com/), a popular web platform for hosting Git repositories–i.e. a place to store and sync your project files online. Think of it as Google Drive for code with super robust “track changes” baked in. Built around the powerful version control of Git, it provides a handy web interface for managing, editing, and collaborating on repositories.
+[GitHub](https://github.com/), a popular web platform for hosting Git repositories–i.e. a place to store and sync your project files online. Think of it as Google Drive for code with super robust "track changes" baked in. Built around the powerful version control of Git, it provides a handy web interface for managing, editing, and collaborating on repositories.
 
 ## Step 1. Create a GitHub account
 
@@ -35,6 +35,8 @@ It contains:
 
 1. Click on the `README.md` link. This will open your README file.
 
+![README file](images/readme-edited.png)
+
 The README file is a place to describe your repository.
 By default, GitHub displays the README on the repository home page, so it is often the first place visitors will look for information about your project.
 
@@ -49,8 +51,8 @@ The first line at the top of the file will look like this:
 
 ```
 
-2. Delete this line of text and instead type `# My Project`.
-3. Proceed to the following section to learn how to save or "commit" your changes.
+3. Delete this line of text and instead type `# My Project`.
+4. Proceed to the following section to learn how to save or "commit" your changes.
 
 ## Step 4. Make a Commit
 
