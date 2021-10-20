@@ -6,13 +6,13 @@ Before we get started, let’s clarify some terms:
 
 [GitHub](https://github.com/), a popular web platform for hosting Git repositories–i.e. a place to store and sync your project files online. Think of it as Google Drive for code with super robust “track changes” baked in. Built around the powerful version control of Git, it provides a handy web interface for managing, editing, and collaborating on repositories.
 
-# Step 1. Create a GitHub account
+## Step 1. Create a GitHub account
 
 1. Go to <https://github.com>
 2. Click the "Sign up" button
 3. Enter your email and create a username and password to complete the sign up process
 
-# Step 2. Copy a GitHub Repository
+## Step 2. Copy a GitHub Repository
 
 Copy code from another repository into your own and start editing it.
 
@@ -25,7 +25,7 @@ Copy code from another repository into your own and start editing it.
     4. Leave the "Include all branches" option **Unchecked**!
     5. Click on the green button "**Create repository from template**". This will take you to your new repository.
 
-!["Create a new repository"](https://github.com/learn-static/foundations-github/blob/main/images/new-repo.png)
+!["Create a new repository"](/images/new-repo.png)
 
 # Step 3. Edit README file
 
